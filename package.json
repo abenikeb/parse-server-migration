@@ -1,6 +1,6 @@
 {
-  "name": "demo-parse-server-migration",
-  "version": "1.0.0",
+  "name": "parse-server-migration",
+  "version": "1.0.1",
   "main": "dist/index.js",
   "private": true,
   "dependencies": {

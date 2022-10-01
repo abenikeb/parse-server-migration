@@ -17,7 +17,8 @@
     "parse-server": "^5.2.7"
   },
   "engines": {
-    "node": "16.x"
+    "node": "16.x",
+    "npm": "8.x"
   },
   "devDependencies": {
     "@moralisweb3/eslint-config": "^1.0.0",
